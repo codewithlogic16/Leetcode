@@ -1,3 +1,3 @@
 # Leetcode
-DSA Practice
+DSA Practice.
 Author-Ankit kumar
